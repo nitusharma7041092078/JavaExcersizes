@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9eb7e048-d6b0-4d6c-9ec4-054f0a9b8fef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,10 +36,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArmstrongNumber.executor": "Run",
     "Application.CurrentTime.executor": "Run",
     "Application.Hexagon.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Pattern.executor": "Run",
+    "Application.Prime.executor": "Run",
+    "Application.ReverseNumber.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
