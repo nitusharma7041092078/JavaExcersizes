@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9eb7e048-d6b0-4d6c-9ec4-054f0a9b8fef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/CharacterRightHalfTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/DiamondPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/LeftHalfTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/NumberPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/NumericRightHalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/ReverseCharacterPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/ReverseRightHalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/ReverseStarPyramidPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/RightHalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/RightHalfTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/StarTrianglePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/ConvertNumberIntoWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/Swap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassWorkPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/ClassWorkPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +39,7 @@
   "keyToString": {
     "Application.ArmstrongNumber.executor": "Run",
     "Application.ClassWorkPattern.executor": "Run",
+    "Application.ConvertNumberIntoWord.executor": "Run",
     "Application.CurrentTime.executor": "Run",
     "Application.Hexagon.executor": "Run",
     "Application.Main.executor": "Run",
@@ -58,6 +48,7 @@
     "Application.Prime.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
     "Application.ReverseString.executor": "Run",
+    "Application.Swap.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
