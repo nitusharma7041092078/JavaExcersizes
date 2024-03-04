@@ -1,3 +1,7 @@
+package in.reinventing.classworkpattern;
+
+import in.reinventing.classworkpattern.internalpatterns.*;
+
 import java.util.Scanner;
 
 class P1
@@ -280,36 +284,39 @@ class P11
 public class ClassWorkPattern {
     public static void main(String[] args)
     {
-//        P1 obj1 = new P1();
-//        obj1.p1();
 
-//        P2 obj2 = new P2();
-//        obj2.p2();
+        ReverseRightHalfPyramid rrhpp=new ReverseRightHalfPyramid();
+        rrhpp.p1();
 
-//        P3 obj3 = new P3();
-//        obj3.p3();
+        RightHalfTriangle rht= new RightHalfTriangle();
+        rht.p2();
 
-//        P4 obj4 = new P4();
-//        obj4.p4();
+        LeftHalfTriangle lht = new LeftHalfTriangle();
+        lht.p3();
 
+        CharacterRightHalfTriangle crht = new CharacterRightHalfTriangle();
+        crht.p4();
 
-//        P5 obj5 = new P5();
-//        obj5.p5();
+        StarTrianglePattern stp = new StarTrianglePattern();
+        stp.p5();
 
-//        P6 obj6 = new P6();
-//        obj6.p6();
+        ReverseStarPyramidPattern rspp = new ReverseStarPyramidPattern();
+        rspp.p6();
 
+        ReverseCharacterPyramid rcp = new ReverseCharacterPyramid();
+        rcp.p7();
 
-//        P8 obj8 = new P8();
-//        obj8.p8();
+        NumericRightHalfPyramid nrhp = new NumericRightHalfPyramid();
+        nrhp.p8();
 
-//        P9 obj9 = new P9();
-//        obj9.p9();
+        NumberPattern np = new NumberPattern();
+        np.p9();
 
-//        P10 obj10 = new P10();
-//        obj10.p10();
+        RightHalfPyramid rhp = new RightHalfPyramid();
+        rhp.p10();
 
-        P11 obj11 = new P11();
-        obj11.p11();
+        DiamondPattern dp = new DiamondPattern();
+        dp.p11();
+
     }
 }

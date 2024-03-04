@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9eb7e048-d6b0-4d6c-9ec4-054f0a9b8fef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ClassWorkPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/CharacterRightHalfTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/DiamondPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/LeftHalfTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/NumberPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/NumericRightHalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/ReverseCharacterPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/ReverseRightHalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/ReverseStarPyramidPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/RightHalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/RightHalfTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/StarTrianglePattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassWorkPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/ClassWorkPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +39,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2coRFhcfK3oKhGup9fULFdogoRv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,9 +60,11 @@
     "Application.ReverseString.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Volumes/DATA/nituworkspace/ java/patterninjava/src/Main.java"
+    "onboarding.tips.debug.path": "/Volumes/DATA/nituworkspace/ java/patterninjava/src/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="SharedIndexes">
