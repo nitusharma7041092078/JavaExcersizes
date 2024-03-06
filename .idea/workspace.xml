@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9eb7e048-d6b0-4d6c-9ec4-054f0a9b8fef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/ConvertNumberIntoWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/CoutNumberOfObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reinventing/classworkpattern/internalpatterns/ThisKeywordUse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,29 +39,97 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArmstrongNumber.executor": "Run",
-    "Application.ClassWorkPattern.executor": "Run",
-    "Application.ConvertNumberIntoWord.executor": "Run",
-    "Application.CurrentTime.executor": "Run",
-    "Application.Hexagon.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.PalindromeNumber.executor": "Run",
-    "Application.Pattern.executor": "Run",
-    "Application.Prime.executor": "Run",
-    "Application.ReverseNumber.executor": "Run",
-    "Application.ReverseString.executor": "Run",
-    "Application.Swap.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Volumes/DATA/nituworkspace/ java/patterninjava/src/Main.java",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArmstrongNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassWorkPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertNumberIntoWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CoutNumberOfObject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CurrentTime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hexagon.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThisKeywordUse.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Volumes/DATA/nituworkspace/ java/patterninjava/src/Main.java&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.Example2">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.reinventing.classworkpattern.Example" />
+      <module name="patterninjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.reinventing.classworkpattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.reinventing.classworkpattern.Example1" />
+      <module name="patterninjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.reinventing.classworkpattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.reinventing.classworkpattern.Example2" />
+      <module name="patterninjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.reinventing.classworkpattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.reinventing.classworkpattern.Parent.Main" />
+      <module name="patterninjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.reinventing.classworkpattern.Parent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example2" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Example1" />
+        <item itemvalue="Application.Example" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
